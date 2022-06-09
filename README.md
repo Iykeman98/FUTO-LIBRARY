@@ -1,0 +1,2 @@
+# FUTO-LIBRARY
+futo library
